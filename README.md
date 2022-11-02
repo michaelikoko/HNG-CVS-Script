@@ -4,4 +4,4 @@ A Python Script that reads the contents of a CSV file. It generates a json file 
 and appends it to each line in a csv file (format filename.output.csv).
 
 To use run
-```~$ python3 scripts.py```
+```python3 script.py```
